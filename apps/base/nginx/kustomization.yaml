@@ -7,3 +7,4 @@ resources:
   - bitnami-repo.yaml
   - namespace.yaml  
   - release.yaml
+  - mysqlrelease.yaml
